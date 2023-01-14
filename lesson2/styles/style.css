@@ -1,17 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=GFS+Didot&family=Raleway:wght@200&display=swap');
+
+
+/*al final agregas el media query para que sea responsive y le agregas no mas el estilo a los cuadros que le metas */
+
+
 #content{ 
     max-width: 1600px;
     margin: 0 auto;}
 #header-box{
-    display: grid;
-    grid-template-columns: 250px auto;
+    
     background-color:#6A994E;
     border-radius: 5px;
     padding: 20px;
     margin: 1.5%;
     align-items: center;
-    font-size: 35px;
+    font-size: 30px;
     box-shadow: 3px 2px 20px 0px;
 
 }
@@ -21,11 +25,6 @@ header{
     
 }
 
-.photo{
-    width: 100%;
-    height: 100%;
-    border-radius: 5px;
-}
 body{
     background-color:#F2E8CF ;
     font-family:"Raleway", sans-serif;
@@ -35,7 +34,8 @@ body{
 }
 
 h1{text-align: center;
-    margin-left: -25%;}
+
+}
 
 hr{background-color: black;
 width: 97%;}
@@ -52,9 +52,9 @@ main{background-color: #E7E9EB;}
     text-align: center;
     box-shadow: 3px 2px 20px 0px;}
 
-#script1{
+#script{
     font-size: 133%;
-    color: yellow;
+    color: black;
     text-decoration-color: beige;
     font-weight: bold;}
 
