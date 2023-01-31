@@ -145,7 +145,7 @@ h1{
     
 }
 footer span{
-    color: yellow;
+    color: #428fdf;;
 }
 .my-padding-titles {
     padding-top: 10px;
@@ -156,21 +156,21 @@ footer span{
 
 .my-padding {
     padding-top: 15px;
-    /* padding-right: 20px;*/
+    
         padding-bottom: 30px;
-    /*  padding-left: 40px;;*/
+    
         
 }
 
 .my-padding-content {
     padding-top: 25px;
-    /* padding-right: 20px;*/
+    
     padding-bottom: 30px;
-    /*  padding-left: 40px;;*/
+    
     
 
 }
-/*24/01 */
+
 img{
     object-fit: cover;
     width: 100%;
@@ -246,27 +246,27 @@ img{
 
 .my-padding {
     padding-top: 15px;
-    /* padding-right: 20px;*/
+    
         padding-bottom: 30px;
-    /*  padding-left: 40px;;*/
+    
         
 }
 
 .my-padding-content {
     padding-top: 25px;
-    /* padding-right: 20px;*/
+    
     padding-bottom: 30px;
-    /*  padding-left: 40px;;*/
+    
 
 }
 
 ul {
     list-style-type: square;
-    /* change bullet points to squares */
+    
     padding: 0;
-    /* remove default padding */
+    
     margin: 0;
-    /* remove default margin */
+    
 }
 
 
